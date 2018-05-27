@@ -7,7 +7,7 @@ permalink: /episodes
 
 {%- if site.posts.size > 0 -%}
   <ul class="post-list">
-    {%- for post in site.posts -%}
+    {%- for post in site.posts reversed -%}
     <li class="post-list-item">
       <a class="post-link" href="{{ post.url | relative_url }}">
         <img class="post-list-item--image" src="{{ post.image }}" alt="{{ post.title | escape }} Thumbnail">
