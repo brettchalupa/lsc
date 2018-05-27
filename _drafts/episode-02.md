@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Episode 02 - Good News"
+categories: comic
+image: /images/Lunar Space Colony - e02 - Thumbnail.jpg
+description: "Bri hears back about her job application."
+permalink: episide-02
+---
+
+![Lunar Space Colony - Episode 02, Part 01](/images/Lunar Space Colony - e02 p01.jpg)
+![Lunar Space Colony - Episode 02, Part 02](/images/Lunar Space Colony - e02 p02.jpg)
+![Lunar Space Colony - Episode 02, Part 03](/images/Lunar Space Colony - e02 p03.jpg)
