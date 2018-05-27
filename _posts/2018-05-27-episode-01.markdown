@@ -8,6 +8,6 @@ description: "Bri buys some new memory for Toto."
 permalink: episide-01
 ---
 
-![Lunar Space Colony - Log 01, Part 01](/images/Lunar Space Colony - e01 p01.jpg)
-![Lunar Space Colony - Log 01, Part 02](/images/Lunar Space Colony - e01 p02.jpg)
-![Lunar Space Colony - Log 01, Part 03](/images/Lunar Space Colony - e01 p03.jpg)
+![Lunar Space Colony - Episode 01, Part 01](/images/Lunar Space Colony - e01 p01.jpg)
+![Lunar Space Colony - Episode 01, Part 02](/images/Lunar Space Colony - e01 p02.jpg)
+![Lunar Space Colony - Episode 01, Part 03](/images/Lunar Space Colony - e01 p03.jpg)
