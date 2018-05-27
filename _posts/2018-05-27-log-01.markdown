@@ -4,6 +4,7 @@ title: "Log 01"
 date: 2018-05-27 08:29:44 -0700
 categories: comic
 image: /images/Lunar Space Colony - e01 - Thumbnail.jpg
+description: "Bri buys some new memory for Toto."
 ---
 
 ![Lunar Space Colony - Log 01, Part 01](/images/Lunar Space Colony - e01 p01.jpg)
