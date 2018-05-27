@@ -43,6 +43,7 @@ defaults:
 permalink: ":title"
 
 header_pages:
+  - episodes.md
   - about.md
 
 # Build settings

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: "Info about the comic, the creator, and the characters."
 permalink: /about
 ---
 

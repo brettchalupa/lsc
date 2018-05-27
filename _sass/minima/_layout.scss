@@ -247,3 +247,24 @@
     }
   }
 }
+
+/**
+ * Post List
+ */
+
+.post-list-item {
+  margin-bottom: 24px;
+
+  .post-list-item--image {
+    display: inline-block;
+
+    height: 64px;
+    width: 64px;
+  }
+
+  .post-list-item--title {
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 20px;
+  }
+}
