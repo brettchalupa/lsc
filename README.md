@@ -21,3 +21,8 @@ jekyll serve -wD
 ```
 
 Deploy by pushing to the `gh-pages` branch to GitHub.
+
+## Theme Details
+
+The theme in a pulled-in, modified version of
+[Minima](https://github.com/jekyll/minima).
