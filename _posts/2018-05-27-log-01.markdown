@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Log 01"
+date: 2018-05-27 08:29:44 -0700
+categories: comic
+image: /images/Lunar Space Colony - e01 - Thumbnail.jpg
+---
+
+![Lunar Space Colony - Log 01, Part 01](/images/Lunar Space Colony - e01 p01.jpg)
+![Lunar Space Colony - Log 01, Part 02](/images/Lunar Space Colony - e01 p02.jpg)
+![Lunar Space Colony - Log 01, Part 03](/images/Lunar Space Colony - e01 p03.jpg)
