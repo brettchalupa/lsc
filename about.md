@@ -15,4 +15,9 @@ permalink: /about
 
 ## The Creator
 
+## Production Details
+
+- Creation Tools
+- Fonts
+
 ## License
