@@ -17,7 +17,7 @@ bundle
 Development:
 
 ```
-jekyll serve -wD
+bundle exec jekyll serve -wD
 ```
 
 Deploy by pushing to the `gh-pages` branch to GitHub.
