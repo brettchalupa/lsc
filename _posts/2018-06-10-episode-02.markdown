@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Episode 02 - Good News"
+date: 2018-06-10 17:00:00 -0700
 categories: comic
 image: /images/Lunar Space Colony - e02 - Thumbnail.jpg
 description: "Bri hears back about her job application."
