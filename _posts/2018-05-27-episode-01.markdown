@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 01 - Intro"
+title: "Episode 01 - Shopping"
 date: 2018-05-27 08:29:44 -0700
 categories: comic
 image: /images/Lunar Space Colony - e01 - Thumbnail.jpg
