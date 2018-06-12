@@ -1,0 +1,22 @@
+.center {
+  text-align: center;
+}
+
+a.button,
+.button {
+  background: $grey-color;
+  border-radius: 4px;
+  color: white;
+  display: block;
+  margin: 12px auto;
+  padding: 12px;
+  max-width: 320px;
+  text-align: center;
+  transition: background .33s;
+
+  &:hover {
+    background-color: lighten($grey-color, 15%);
+    text-decoration: none;
+    transition: background .33s;
+  }
+}

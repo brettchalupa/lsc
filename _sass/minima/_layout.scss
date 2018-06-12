@@ -255,6 +255,12 @@
 .post-list-item {
   margin-bottom: 24px;
 
+  a {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
   .post-list-item--image {
     display: inline-block;
 
