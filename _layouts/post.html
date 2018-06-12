@@ -11,6 +11,23 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.next.url %}
+    <a class="next post-nav-item button" href="{{page.next.url}}">
+      Next Episode &mdash; {{page.next.title}} &raquo;
+    </a>
+  {% else %}
+    <p class="coming-soon center">
+      Next episode coming soon.
+    </p>
+  {% endif %}
+
+  {% unless page == site.posts.last %}
+    <p class="center">
+      {% assign first_post = site.posts.last %}
+      <a href="{{ first_post.url | relative_url }}">Start from the Beginning</a>
+    </p>
+  {% endunless %}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
