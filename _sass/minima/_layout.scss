@@ -12,15 +12,16 @@
 
 .site-title {
   @include relative-font-size(1.625);
+  color: $grey-color-dark;
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
 
-  &,
+  &:hover,
   &:visited {
-    color: $grey-color-dark;
+    color: lighten($grey-color-dark, 20%);
   }
 }
 

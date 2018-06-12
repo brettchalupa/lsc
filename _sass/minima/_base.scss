@@ -102,14 +102,16 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $brand-color;
   text-decoration: none;
+  transition: color .33s;
 
   &:visited {
     color: darken($brand-color, 15%);
+    transition: color .33s;
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: darken($brand-color, 30%);
+    transition: color .33s;
   }
 
   .social-media-list &:hover {
