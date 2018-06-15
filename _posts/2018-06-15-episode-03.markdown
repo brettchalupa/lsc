@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Episode 03 - The Plan"
+date: 2018-06-15 8:00:00 -0700
+categories: comic
+image: /images/Lunar Space Colony - e03 - Thumbnail.jpg
+description: "Bri and Toto figure out what they need to do before leaving Earth."
+permalink: episide-03
+---
+
+![Lunar Space Colony - Episode 03, Part 01](/images/Lunar Space Colony - e03 p01.jpg)
+![Lunar Space Colony - Episode 03, Part 02](/images/Lunar Space Colony - e03 p02.jpg)
