@@ -23,4 +23,7 @@ _A weekly sci-fi comic. New episode every Tuesday._
 {% assign latest_post = site.posts.first %}
 <a class="button" href="{{ latest_post.url | relative_url }}">Read the Latest Episode</a>
 
-[read on tapas/webtoon/RSS]
+Follow along:
+
+- [Read on Tapas](https://tapas.io/series/Lunar-Space-Colony-Comic)
+- [Subscribe via {{ site.rss | escape }}]({{ 'feed.xml' | relative_url }})
