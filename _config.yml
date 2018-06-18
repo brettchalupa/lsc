@@ -16,9 +16,8 @@
 title: Lunar Space Colony
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  An atmospheric sci-fi slice-of-life comic about an engineer named Bri
-  who leaves Earth to work on the Lunar Space Colony. Created by Brett
-  Chalupa.
+  A sci-fi comic about an engineer named Bri who leaves Earth to work on
+  the Lunar Space Colony. Created by Brett Chalupa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lsc.brettchalupa.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brettchalupa
