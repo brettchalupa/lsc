@@ -6,7 +6,11 @@ layout: home
 image: /images/LSC Cover Art.jpg
 ---
 
-<img src="/images/LSC Cover Art.jpg" alt="Bri and Toto in front of the Moon" class="lsc-cover">
+{% assign first_post = site.posts.last %}
+
+<a href="{{ first_post.url | relative_url }}">
+  <img src="/images/LSC Cover Art.jpg" alt="Bri and Toto in front of the Moon" class="lsc-cover">
+</a>
 
 <p>A weekly sci-fi comic. New episode every Tuesday.</p>
 
@@ -14,7 +18,6 @@ image: /images/LSC Cover Art.jpg
 
 <p>New to <strong>Lunar Space Colony</strong>?</p>
 
-{% assign first_post = site.posts.last %}
 <a class="button" href="{{ first_post.url | relative_url }}">Start from the Beginning</a>
 
 {% assign latest_post = site.posts.first %}
