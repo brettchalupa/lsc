@@ -3,27 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image: /images/LSC Cover Art.jpg
 ---
 
-[logo]
+<img src="/images/LSC Cover Art.jpg" alt="Bri and Toto in front of the Moon" class="lsc-cover">
 
-Bri, an engineer, starts a new life onboard a colony orbiting the Moon.
+<p>A weekly sci-fi comic. New episode every Tuesday.</p>
 
-_A weekly sci-fi comic. New episode every Tuesday._
+<p>Bri, an engineer, starts a new life onboard a colony orbiting the Moon.</p>
 
-[some intro art -- maybe the colony and some characters? basically the promo art]
-
-<p class="center">
-  New to <strong>Lunar Space Colony</strong>?
-</p>
+<p>New to <strong>Lunar Space Colony</strong>?</p>
 
 {% assign first_post = site.posts.last %}
 <a class="button" href="{{ first_post.url | relative_url }}">Start from the Beginning</a>
 
 {% assign latest_post = site.posts.first %}
 <a class="button" href="{{ latest_post.url | relative_url }}">Read the Latest Episode</a>
-
-Follow along:
-
-- [Read on Tapas](https://tapas.io/series/Lunar-Space-Colony-Comic)
-- [Subscribe via {{ site.rss | escape }}]({{ 'feed.xml' | relative_url }})
