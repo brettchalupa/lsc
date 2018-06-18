@@ -19,14 +19,12 @@ layout: default
     <p class="coming-soon center">
       Next episode coming soon.<br>New episode every Tuesday morning.
     </p>
-  {% endif %}
 
-  {% unless page == site.posts.last %}
     <p class="center">
       {% assign first_post = site.posts.last %}
       <a href="{{ first_post.url | relative_url }}">Start from the Beginning</a>
     </p>
-  {% endunless %}
+  {% endif %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
