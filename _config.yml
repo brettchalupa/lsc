@@ -23,6 +23,7 @@ url: "https://lsc.brettchalupa.com" # the base hostname & protocol for your site
 twitter_username: brettchalupa
 instagram_username: brettchalupadraws
 rss: RSS
+google_analytics: UA-44234487-8
 
 collections:
   posts:
