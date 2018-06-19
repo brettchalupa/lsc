@@ -9,7 +9,7 @@ In the near future, the United Space Federation launches a
 self-sustaining colony that orbits the Moon to try to find a way for
 humanity to survive. Bri, a young engineer, leaves behind her life on
 Earth to work on the Lunar Space Colony to try to help those
-that remain.
+that remain back home.
 
 _Lunar Space Colony_ is a weekly, vertical webcomic. New episodes are
 published every Tuesday morning. The intended length of the series is
