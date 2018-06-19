@@ -8,7 +8,7 @@ permalink: /about
 In the near future, the United Space Federation launches a
 self-sustaining colony that orbits the Moon to try to find a way for
 humanity to survive. Bri, a young engineer, leaves behind her life on
-Earth to work on on the Lunar Space Colony to try to help those
+Earth to work on the Lunar Space Colony to try to help those
 that remain.
 
 _Lunar Space Colony_ is a weekly, vertical webcomic. New episodes are
@@ -35,7 +35,7 @@ Bri's finest creation to date, Toto is a floating spherical android.
 ![Concept art of the Colony](/images/LSC Location Concepts - The Colony.jpg)
 
 A technological marvel, the Lunar Space Colony orbits the Moon and
-features everything needed for living long-term offplanet.
+features everything needed for living long-term off-planet.
 
 ## The Creator
 
@@ -61,4 +61,4 @@ Planet](http://www.blambot.com/font_homeplanet.shtml) for titles.
 
 ## Copyright
 
-_Lunar Space Colony_ is &copy; Brett Chalupa 2018.
+_Lunar Space Colony_ is &copy; Brett Chalupa 2018. All rights reserved.
