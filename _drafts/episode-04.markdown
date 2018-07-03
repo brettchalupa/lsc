@@ -4,6 +4,7 @@ title: "Episode 04 - The Night Before"
 categories: comic
 image: /images/Lunar Space Colony - e04 - Thumbnail.jpg
 description: "Bri and Toto move out of their apartment."
+date: 2018-07-10 6:30:00 -0700
 permalink: episide-04
 ---
 

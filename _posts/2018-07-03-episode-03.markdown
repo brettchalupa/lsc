@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 03 - The Plan"
-date: 2018-06-15 8:00:00 -0700
+date: 2018-07-03 6:32:00 -0700
 categories: comic
 image: /images/Lunar Space Colony - e03 - Thumbnail.jpg
 description: "Bri and Toto figure out what they need to do before leaving Earth."
