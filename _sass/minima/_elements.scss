@@ -13,7 +13,6 @@ a.button,
   max-width: 460px;
   text-align: center;
   transition: background .33s;
-  width: 100%;
 
   &:hover {
     background-color: lighten($grey-color, 15%);
