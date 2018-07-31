@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Episode 07 - Preston"
+categories: comic
+image: /images/Lunar Space Colony - e07 - Thumbnail.jpg
+description: "Bri meets Preston for the first time."
+date: 2018-07-31 6:30:00 -0700
+permalink: episide-07
+---
+
+![Lunar Space Colony - Episode 07, Part 01](/images/Lunar Space Colony - e07 p01.jpg)
+![Lunar Space Colony - Episode 07, Part 02](/images/Lunar Space Colony - e07 p02.jpg)
+![Lunar Space Colony - Episode 07, Part 03](/images/Lunar Space Colony - e07 p03.jpg)
