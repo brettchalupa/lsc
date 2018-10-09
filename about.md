@@ -11,9 +11,7 @@ humanity to survive. Bri, a young engineer, leaves behind her life on
 Earth to work on the Lunar Space Colony to try to help those
 that remain back home.
 
-_Lunar Space Colony_ is a weekly, vertical webcomic. New episodes are
-published every Tuesday morning. The intended length of the series is
-around 24 episodes.
+_Lunar Space Colony_ is a vertical webcomic. **It is currently on hiatus.**
 
 ## Characters & Concept Art
 

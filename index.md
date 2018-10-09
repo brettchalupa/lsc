@@ -12,7 +12,7 @@ image: /images/LSC Cover Art.jpg
   <img src="/images/LSC Cover Art.jpg" alt="Bri and Toto in front of the Moon" class="lsc-cover">
 </a>
 
-<p>A weekly sci-fi comic. New episode every Tuesday.</p>
+<p>A sci-fi comic. Currently on hiatus.</p>
 
 <p>Bri, an engineer, starts a new life onboard a colony orbiting the Moon.</p>
 
